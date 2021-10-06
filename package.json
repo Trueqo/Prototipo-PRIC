@@ -1,0 +1,23 @@
+{
+  "name": "Prototipo-PRIC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trueqo/Prototipo-PRIC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trueqo/Prototipo-PRIC/issues"
+  },
+  "homepage": "https://github.com/Trueqo/Prototipo-PRIC#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.2"
+  }
+}
