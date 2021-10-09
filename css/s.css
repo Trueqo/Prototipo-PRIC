@@ -1,0 +1,69 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    
+    width: 100%;
+    height: 100%;
+    background-color: rgb(95, 80, 58);
+}
+
+.navBar{
+    background-color: aqua;
+    height: 10vh;
+    
+}
+
+.libro{
+    background-color: greenyellow;
+    height:90vh;
+    
+}
+
+#slideBar{
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#content{
+    background-color: rgb(226, 224, 224);
+    color:white;
+}
+
+.cen{
+    background-color: #fff;
+    padding:20%;
+    margin:10%;
+    border-radius: 1rem;
+
+}
+
+button{
+    background-color: aquamarine;
+    border-radius: .75rem;
+}
+
+.logo1{
+    
+    border-radius:1rem;
+}
+
+
+#slidebar-container{
+    background-color: rgb(104, 204, 204);
+    height:100%;
+    text-align: start;
+    
+}
+.slidebar-container{
+    
+    width:100%;
+}
+
+div > a{
+    text-decoration: none;
+}
